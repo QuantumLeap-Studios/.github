@@ -1,1 +1,2 @@
-# .github
+# QuantumLeap - Studios Transforming Reality Beyond Imagination
+Founded by Steve Monke, QuantumLeap Studios is a creative tech company dedicated to building immersive games, powerful developer tools, and unique digital experiences. From multiplayer adventures to cutting-edge APIs and modding tools, we're redefining what's possible in the digital world — and making it accessible to everyone. All our games are free to play, and our tools are open to developers and creators alike.
